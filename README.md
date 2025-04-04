@@ -19,7 +19,7 @@
 ## 🎓 Instituições que obtive certificados com foco em T.I.
 
 🧠 DIO <br>
-🧠 ADA
+🧠 ADA <br>
 🧠 Preditiva <br>
 🧠 GINEAD <br>
 🧠 ACBr <br>
