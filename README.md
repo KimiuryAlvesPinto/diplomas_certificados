@@ -1,5 +1,5 @@
 
->> Repositório para organizar todos os certificados e diplomas que irei e já adquiri. Será atualizado todo mes.
+>> Repositório para organizar todos os certificados e diplomas que irei e já adquiri. 
 
 
 ## 🎓 Cursando 
@@ -25,6 +25,7 @@
 🧠 ACBr <br>
 🧠 Fundação Bradesco <br>
 🧠 Programming Hub <br>
+🧠 Linx Academy
 
 
 
